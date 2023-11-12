@@ -65,7 +65,7 @@ function convertYear(romanYear) {
   return result;
 }
 
-// Rest of your code remains the same
+
 
 // Sample data
 var productProfitArray = [
