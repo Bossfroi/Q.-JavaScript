@@ -65,6 +65,6 @@ var productProfitArray = [
   { key: "Product D", value: 25 },
 ];
 
-console.log(topProduct(productProfitArray)); // Output: "Product C"
-console.log(bottomProduct(productProfitArray)); // Output: "Product B"
-console.log(zeroProfitProduct(productProfitArray)); // Output: "Product D"
+console.log(topProduct(productProfitArray)); 
+console.log(bottomProduct(productProfitArray)); 
+console.log(zeroProfitProduct(productProfitArray)); 
